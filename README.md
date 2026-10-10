@@ -28,3 +28,11 @@
 Это самостоятельная инициатива. Упоминание образовательных организаций и сервисов не означает партнёрства с ними.
 
 [Анонс](announcements/LAUNCH.md) · [Приватность](PRIVACY.md) · [Происхождение материалов](AI_DISCLOSURE.md) · [Права](RIGHTS.md)
+
+## Contact / Контакты
+
+For project inquiries and technology collaboration: **[vladimir.uzbek.ai@gmail.com](mailto:vladimir.uzbek.ai@gmail.com)**.
+
+По вопросам проектов и сотрудничества: **[vladimir.uzbek.ai@gmail.com](mailto:vladimir.uzbek.ai@gmail.com)**.
+
+[Personal technology portfolio](https://personal-portfolio-web-production-1e48.up.railway.app/) · [All public GitHub projects](https://github.com/loaderxxx?tab=repositories&type=public).
