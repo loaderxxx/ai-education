@@ -35,4 +35,4 @@ For project inquiries and technology collaboration: **[vladimir.uzbek.ai@gmail.c
 
 По вопросам проектов и сотрудничества: **[vladimir.uzbek.ai@gmail.com](mailto:vladimir.uzbek.ai@gmail.com)**.
 
-[Personal technology portfolio](https://personal-portfolio-web-production-1e48.up.railway.app/) · [All public GitHub projects](https://github.com/loaderxxx?tab=repositories&type=public).
+[Personal technology portfolio](https://vladimiruzbek.com/) · [All public GitHub projects](https://github.com/loaderxxx?tab=repositories&type=public).
